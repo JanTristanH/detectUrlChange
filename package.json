@@ -1,0 +1,26 @@
+{
+  "name": "detecturlchange",
+  "version": "1.0.0",
+  "description": "Crawl a url to detect changes",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanTristanH/detectUrlChange.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JanTristanH/detectUrlChange/issues"
+  },
+  "homepage": "https://github.com/JanTristanH/detectUrlChange#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-fetch": "^3.2.10",
+    "node-telegram-bot-api": "^0.59.0",
+    "nodemailer": "^6.8.0"
+  }
+}
